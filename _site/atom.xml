@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Project Kick-Ass Programmers</title>
+ <link href="https://Kick-Ass-Programmers.github.io/" rel="self"/>
+ <link href="https://Kick-Ass-Programmers.github.io"/>
+ <updated>2020-01-31T00:36:38+01:00</updated>
+ <id>https://Kick-Ass-Programmers.github.io</id>
+ <author>
+   <name>Diaspora Network</name>
+   <email>g@isene.com</email>
+ </author>
+
+ 
+ 
+</feed>
